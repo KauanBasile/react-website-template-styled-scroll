@@ -12,6 +12,7 @@
 
 - O gerenciamento dos estados é realizado com os Hooks useState e useEffect.
 
+
 - Design responsivo para todos os tamanhos de tela.
 
 ![Website-gif](https://user-images.githubusercontent.com/92753628/163985383-4581d8db-4226-41fa-a629-ed61f8387f7b.gif)
